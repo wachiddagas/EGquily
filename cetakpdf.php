@@ -43,8 +43,8 @@ table {
     background-color: #f2f2f2; }
     </style>
     <div id="header">
-        <h4>Sistem Pendukung Keputusan Pemilihan Supplier</h4>
-        <h2>CV. BIMANTARA</h2>
+        <h4>Sistem Pendukung Keputusan Pemilihan Customer Telur</h4>
+        <h2>EGQuily</h2>
     </div>
     <div id="judul" class="text-center">
         <p class="text-underline">Hasil Perhitungan</p>
